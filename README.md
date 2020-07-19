@@ -1,6 +1,4 @@
-### Hi there 👋, I'm Hafiz Caniago !
-
-<br />
+## Hi there 👋, I'm Hafiz Caniago !
 
 <a href="https://www.linkedin.com/in/hafizcaniago/">
   <img align="left" alt="Hafiz's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
