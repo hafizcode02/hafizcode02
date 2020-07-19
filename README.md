@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Hafiz Caniago !
 
-<a href="https://www.linkedin.com/in/hafizcaniago/">
+<a href="https://www.linkedin.com/in/hafiz-caniago/">
   <img align="left" alt="Hafiz's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/hafizcaniago/">
@@ -26,7 +26,7 @@ Hi there, I'm **Hafiz Caniago**, a **Web and Mobile Developer** and a **Software
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via hafizcode02@gmail.com to reach me.
-- 📝 See my <a href="https://www.linkedin.com/in/hafizcaniago/">LinkedIn</a> to get more info.
+- 📝 See my <a href="https://www.linkedin.com/in/hafiz-caniago/">LinkedIn</a> to get more info.
 
 
 **Languages and Tools:**
