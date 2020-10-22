@@ -2,7 +2,6 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=hafizcode02&show_icons=true)
 <br />
-Hi there, I'm **Hafiz Caniago**, a **Web and Mobile Developer** and a **Software Engineering Student** 🚀 from Indonesia. 
 
 **Current Activity:**
 
