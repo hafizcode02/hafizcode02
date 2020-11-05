@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Hafiz Caniago(17) !
+## Hi there 👋, I'm Hafiz Caniago (17) !
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=hafizcode02&show_icons=true)
 <br />
@@ -7,6 +7,7 @@
 
 - 💻 I'm currently learning mobile app development using kotlin.
 - 💻 I’m currently learning Laravel.
+- 💻 I’m currently learning Python.
 - 🤔 My interests are learning about mobile and web development, include front-end and backend development.
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I am happy to help.
