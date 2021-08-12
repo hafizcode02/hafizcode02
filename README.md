@@ -8,7 +8,7 @@ currently i'm learning about android development using ![KotlinBadge](https://im
 
 | Github Performance | Most Used Language |
 | --- | --- |
-| ![github stats](https://github-readme-stats.vercel.app/api?username=hafizcode02&show_icons=true) | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizcode02&layout=compact&theme=vue"> |
+| ![github stats](https://github-readme-stats.vercel.app/api?username=hafizcode02&show_icons=true&theme=tokyonight) | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizcode02&layout=compact&theme=tokyonight"> |
 
 
 ## Contact :
