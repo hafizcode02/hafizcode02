@@ -1,3 +1,6 @@
+@OSSDAO-ORG•AIRDROP-0x88cBBEb56cC42B2514B92C89DB62b16d485F89A9
+
+
 ## Hello!
 
 My Name is Hafiz Caniago, you can call me Hafiz, I'm 18 y.o **`Freelancer Programmer`** also an **`Collage Student`** from Cirebon, Jawa Barat, Indonesia. <br> 
@@ -19,6 +22,3 @@ If you want to know more about me or collaborate, feel free to contact me at :
 [![GmailBadge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizcode02@gmail.com)
 
 ![Profile views](https://gpvc.arturio.dev/hafizcode02)  
-
-
-@OSSDAO-ORG•AIRDROP-0x88cBBEb56cC42B2514B92C89DB62b16d485F89A9
