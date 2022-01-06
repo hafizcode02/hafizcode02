@@ -18,4 +18,4 @@ If you want to know more about me or collaborate, feel free to contact me at :
 [![LinkedinBadge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-caniago)
 [![GmailBadge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafizcode02@gmail.com)
 
-![Profile views](https://gpvc.arturio.dev/hafizcode02)  
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=hafizcode02&repo=hafizcode02&countColorcountColor)  
