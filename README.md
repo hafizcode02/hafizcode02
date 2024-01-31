@@ -22,6 +22,8 @@ A 21 y.o person that interest in technology.
  <code><img src="https://www.svgrepo.com/show/330398/express.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/508915/flask.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="40"></code>
+ <br>
+ <br>
  <code><img src="https://www.svgrepo.com/show/374071/sequelize.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/452183/cpp.svg" height="40"></code>
