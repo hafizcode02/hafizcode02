@@ -1,17 +1,39 @@
- ### Hi there, I'm Hafiz Caniago 👋
+### Hi there, I'm Hafiz Caniago 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=hafizcode02)
 [![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/hafizcaniago/)
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/hafizcode02/) 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/hafiz-caniago/) 
 
-A 20 y.o person that interest in technology.
+A 21 y.o person that interest in technology.
 ### 📋 Current Activity
-- 💻 I'm Currently Cloud Computing Cohort at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/?tab=cloud-computing) Batch 2;
-- 📖 I’m currently focusing to Learn Website Development;
-- 📖 also learning to Microcontroller (Robotics) and Security Pentesting;
+- 💼 I'm Final year of Informatics Engineering Student;
+- 🚀 I'm recently Graduate from Bangkit Academy 2023 Batch 2 - Cloud Computing;
+- 🎯 I’m currently focusing to Learn Website Development especially in Backend Development;
+- 📖 also have interest on learning about microcontrollers and Internet of Things;
 - 🤔 My Interests in technology, but i haven't choose my speciality;
-- 💼 I’m Pursuing a Bachelor's Degree in Informatics Engineering;
 ----
+
+### 💻 Tech Stacks
+<div align="left">
+ <code><img src="https://www.svgrepo.com/show/349474/php.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/349419/javascript.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/374016/python.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/330398/express.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/508915/flask.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/374071/sequelize.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/452183/cpp.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/353423/arduino.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/452192/docker.svg" height="40"></code>
+ <code><img src="https://seeklogo.com/images/L/laragon-logo-D8819D2A8F-seeklogo.com.png" height="40" width="40"></code>
+ <code><img src="https://www.svgrepo.com/show/452129/vs-code.svg" height="40"></code>
+</div>
+<br>
+
 ### 📊 Github Stats
 <p align="left">
 <a href="https://github.com/hafizcode02">
