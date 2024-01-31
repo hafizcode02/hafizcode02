@@ -11,10 +11,9 @@ A 21 y.o person that interest in technology.
 - 🎯 I’m currently focusing to Learn Website Development especially in Backend Development;
 - 📖 also have interest on learning about microcontrollers and Internet of Things;
 - 🤔 My Interests in technology, but i haven't choose my speciality;
-----
+<hr>
 
-### 💻 Tech Stacks
-<div align="left">
+<div align="center">
  <code><img src="https://www.svgrepo.com/show/349474/php.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/349419/javascript.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/374016/python.svg" height="40"></code>
@@ -33,9 +32,9 @@ A 21 y.o person that interest in technology.
  <code><img src="https://www.svgrepo.com/show/452129/vs-code.svg" height="40"></code>
 </div>
 <br>
+<br>
 
-### 📊 Github Stats
-<p align="left">
+<p align="center">
 <a href="https://github.com/hafizcode02">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hafizcode02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafizcode02&layout=compact&langs_count=8&theme=algolia"/>
