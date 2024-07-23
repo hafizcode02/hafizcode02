@@ -17,17 +17,19 @@ A 21 y.o person that interest in technology.
  <code><img src="https://www.svgrepo.com/show/349474/php.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/349419/javascript.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/374016/python.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/452183/cpp.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/452184/csharp.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/330398/express.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/508915/flask.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="40"></code>
  <br>
  <br>
+ <code><img src="https://www.svgrepo.com/show/353423/arduino.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/374071/sequelize.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/452183/cpp.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/353423/arduino.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="40"></code>
+ <code><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/452192/docker.svg" height="40"></code>
  <code><img src="https://seeklogo.com/images/L/laragon-logo-D8819D2A8F-seeklogo.com.png" height="40" width="40"></code>
