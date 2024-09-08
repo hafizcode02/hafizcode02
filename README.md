@@ -4,15 +4,11 @@
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/hafizcode02/) 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/hafiz-caniago/) 
 
-A 21 y.o person that interest in technology.
+A 21 y.o person that interested in technology.
 ### 📋 Current Activity
-- 💼 I'm Final year of Informatics Engineering Student;
-- 🚀 I'm recently Graduate from Bangkit Academy 2023 Batch 2 - Cloud Computing;
-- 🎯 I’m currently focusing to Learn Website Development especially in Backend Development;
-- 📖 also have interest on learning about microcontrollers and Internet of Things;
-- 🤔 My Interests in technology, but i haven't choose my speciality;
-<hr>
-
+- 🎓 I'm Final year of Informatics Engineering Student.
+- 🎯 I’m currently focusing to Learn Website Development especially in Backend Development.
+<br>
 <div align="center">
  <code><img src="https://www.svgrepo.com/show/349474/php.svg" height="40"></code>
  <code><img src="https://www.svgrepo.com/show/349419/javascript.svg" height="40"></code>
@@ -36,8 +32,9 @@ A 21 y.o person that interest in technology.
  <code><img src="https://www.svgrepo.com/show/452129/vs-code.svg" height="40"></code>
 </div>
 <br>
-<br>
+<hr>
 
+### 📊 Github Stats
 <div align="center">
   <a href="https://github.com/hafizcode02">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=hafizcode02&theme=tokyonight-duo&hide_border=true" />
@@ -50,6 +47,7 @@ A 21 y.o person that interest in technology.
  <a href="https://github.com/hafizcode02">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hafizcode02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  </a>
+ &nbsp;
  <a href="https://github.com/hafizcode02">
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafizcode02&layout=compact&langs_count=8&theme=tokyonight"/>
  </a>
