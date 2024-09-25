@@ -1,36 +1,27 @@
-### Hi there, I'm Hafiz Caniago 👋
+## Hi there, I'm Hafiz Caniago 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=hafizcode02)
 [![Instagram](https://img.shields.io/badge/--linkedin?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/hafizcaniago/)
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/hafizcode02/) 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/hafiz-caniago/) 
 
 A 21 y.o person that interested in technology.
+
 ### 📋 Current Activity
 - 🎓 I'm Final year of Informatics Engineering Student.
 - 🎯 I’m currently focusing to Learn Website Development especially in Backend Development.
+- 📑 Open for oppurtunity or collaboration, Feel free to ask, I'm happy to Help and learn new things.
+
 <br>
-<div align="center">
- <code><img src="https://www.svgrepo.com/show/349474/php.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/349419/javascript.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/374016/python.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/452183/cpp.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/452184/csharp.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/353985/laravel.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/330398/express.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/508915/flask.svg" height="40"></code>
- <br>
- <br>
- <code><img src="https://www.svgrepo.com/show/353423/arduino.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/374071/sequelize.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/353498/bootstrap.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/353805/google-cloud.svg" height="40"></code>
- <code><img src="https://www.svgrepo.com/show/452192/docker.svg" height="40"></code>
- <code><img src="https://seeklogo.com/images/L/laragon-logo-D8819D2A8F-seeklogo.com.png" height="40" width="40"></code>
- <code><img src="https://www.svgrepo.com/show/452129/vs-code.svg" height="40"></code>
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,js,python,cpp,cs,laravel,nodejs,express,flask" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,sequelize,bootstrap,mysql,gcp,docker,vscode,visualstudio" />
+  </a>
+</p>
 <br>
 <hr>
 
