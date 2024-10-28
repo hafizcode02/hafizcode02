@@ -40,7 +40,7 @@ A 21 y.o person that interested in technology.
  </a>
  &nbsp;
  <a href="https://github.com/hafizcode02">
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafizcode02&layout=compact&langs_count=8&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafizcode02&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=laravel-lte-boilerplate"/>
  </a>
 </div>
 </div>
