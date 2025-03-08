@@ -4,17 +4,21 @@
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/hafizcode02/) 
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/hafiz-caniago/) 
 
-A 21 y.o person that interested in technology.
+Welcome to my GitHub profile! I’m a developer who loves building impactful solutions, especially in backend development. Lately, I’ve been expanding my skills into full-stack development with modern web technologies.
+I'm also starting to explore AI, learning about machine learning, deep learning, and LLMs to understand how to build AI-powered applications.
+Feel free to check out my repositories, and if you have any questions or ideas for collaboration, let’s connect! Always excited to learn and build something awesome together. 🤗
 
 ### 📋 Current Activity
 - 🎓 I'm Final year of Informatics Engineering Student.
-- 🎯 I’m currently focusing to Learn Website Development especially in Backend Development.
-- 📑 Open for oppurtunity or collaboration, Feel free to ask, I'm happy to Help and learn new things.
+- 🏗️ Expanding my skills into full-stack development with modern web technologies.
+- 🤖 Just starting to explore AI, learning about machine learning, deep learning, and LLMs.
+- 📑 Open to opportunities and collaborations—feel free to reach out! Always happy to help and learn new things.
 
+### 🔧 Tech & Tools
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,python,cpp,cs,laravel,nodejs,express,flask" />
+    <img src="https://skillicons.dev/icons?i=php,js,python,cpp,cs,laravel,nodejs,express,typescript,flask,tensorflow" />
   </a>
 </p>
 <p align="center">
