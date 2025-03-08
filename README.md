@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile! I’m a developer who loves building impactful solutions, especially in backend development. Lately, I’ve been expanding my skills into full-stack development with modern web technologies.
 I'm also starting to explore AI, learning about machine learning, deep learning, and LLMs to understand how to build AI-powered applications.
-Feel free to explore my repositories, and if you have any questions or ideas for collaboration, let’s connect! Always excited to learn and build something awesome together. 🤗
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! Nice to meet you guys, let's learn or build something useful together.
 
 ### 📋 Current Activity
 - 🎓 I'm Final year of Informatics Engineering Student.
