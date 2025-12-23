@@ -31,8 +31,8 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ### 📊 Github Stats
 <div align="center">
-  <a href="https://github.com/hafizcode02">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=hafizcode02&theme=tokyonight-duo&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=hafizcode02&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </div>
 
